@@ -2,6 +2,9 @@
 This is a simple iOS game built using SwiftUI. The game is a word scramble game where the user has to create new words from a given root word.
 
 
+https://github.com/Ktamim98/WordScramble/assets/124142522/3797a8e3-402f-4435-b911-79409593dadd
+
+
 ## Features
 - Users can input words by typing into the text field
 - App checks if the word is valid based on the following conditions:
